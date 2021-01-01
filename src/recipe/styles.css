@@ -1,0 +1,30 @@
+.recipe {
+  border-radius: 60px;
+  padding: 20px 0;
+  margin: 20px;
+  width: 400px;
+  box-shadow: 8px 10px 10px;
+  border: 5px solid rgb(78, 75, 75);
+  text-align: center;
+  background-color: white;
+}
+
+.ingredients {
+  list-style-type: none; /* not working */
+}
+
+.imageDiv {
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  margin: -25% 0;
+}
+
+.recipeName {
+  letter-spacing: 1px;
+}
